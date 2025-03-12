@@ -1,6 +1,6 @@
-# 小学生 算法入门 案例精讲 2024
+# 小学生 算法入门 案例精讲系列 2024 Python 版
 
-## 系列之一、求素数，初步学习穷举法及优化
+## 之三：判断素数，初步学习穷举法及优化
 
 ---
 
@@ -10,9 +10,11 @@
 > 
 > - `github` [loongba/Algorithm_Learning_Insights](https://github.com/LoongBa/Algorithm_Learning_Insights)
 > 
+> - `gitcode` [loongba/Algorithm_Learning_Insights](https://gitcode.com/LoongBa/Algorithm_Learning_Insights)
+> 
 > - `gitee` [loongba/Algorithm_Learning_Insights](https://gitee.com/LoongBa/Algorithm_Learning_Insights)
 > 
-> - [loongba 个人网站](https://coffeedrunk.cn)
+> - [loongba 个人网站1](https://coffeedrunk.cn) | [loongba 个人网站2](https://loongba.cn)
 
 在 `github` 或 `markdown` 编辑器中阅读本文时，可打开其目录功能方便浏览和跳转。
 
@@ -22,15 +24,15 @@
 
 ---
 
-## 算法入门 案例精讲 目录
+## 算法入门 案例精讲 Python 版 目录
 
 0. [前言：使用说明](README.md)
 
-1. [求素数，初步学习穷举法及优化](Readme_01.md)
+1. [求回文数，练习拆分数字和进制转换](Readme_01.md)
 
-2. [求回文数，练习拆分数字和进制转换](Readme_02.md)
+2. [求水仙花数，了解枚举和迭代](Readme_02.md)
 
-3. [求水仙花数，了解枚举和迭代](Readme_03.md)
+3. [判断素数，初步学习穷举法及优化](Readme_03.md)
 
 4. [求阶和、阶乘，学习迭代和递归](Readme_04.md)
 
@@ -46,7 +48,7 @@
 
 ---
 
-# 一、求素数，初步学习穷举法及优化
+# 三、判断素数，初步学习穷举法及优化
 
 > `素数`（又称为`质数`）是指在大于 `1` 的自然数中，除了 `1` 和 `它本身` 以外不再有其它因数的自然数。
 
@@ -109,7 +111,7 @@
 
 4. **逐步优化算法**：先用代码编写出最简单的算法，再进一步优化。
 
-> [求素数 C 代码](https://github.com/coffeescholar/C_CPP-Learning/blob/main/%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0/01_%E6%B1%82%E7%B4%A0%E6%95%B0_%E7%A9%B7%E4%B8%BE_%E8%AF%95%E9%99%A4%E6%B3%95.c)
+> [判断素数 C 代码](https://github.com/coffeescholar/C_CPP-Learning/blob/main/%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0/01_%E6%B1%82%E7%B4%A0%E6%95%B0_%E7%A9%B7%E4%B8%BE_%E8%AF%95%E9%99%A4%E6%B3%95.c)
 
 ## 编程练习1：
 
