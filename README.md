@@ -42,8 +42,8 @@
 
 **其它辅助类：**
 
-1. 《C++新手入门指南：安装和配置环境》
+1. 《[C++新手入门指南：安装和配置环境](/Cpp_Beginner_Guide)》
 
-2. 《C++新手入门指南：安装和配置VSCode》
+2. 《[C++新手入门指南：安装和配置VSCode](/Cpp_Beginner_Guide)》
 
 3. 《[推荐算法可视化工具](AlgorithmVisualization.md)》
