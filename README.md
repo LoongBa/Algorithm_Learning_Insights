@@ -26,7 +26,7 @@
 
 **入门部分：**
 
-1. 《[小学生 算法入门 案例精讲 Python 版](Python_Beginner/Readme.md)》
+1. 《[小学生 算法入门 案例精讲 Python 版](Python_Beginner)》
 
 2. 《小学生 算法入门 案例精讲 NOI/CSP C++ 版》
 
