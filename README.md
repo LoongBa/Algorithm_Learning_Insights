@@ -1,4 +1,4 @@
-# 龙爸陪孩子自学编程：小学生 算法入门 案例精讲系列
+# 龙爸陪孩子自学编程系列
 
 ## ---
 
@@ -26,7 +26,7 @@
 
 **入门部分：**
 
-1. 《[小学生 算法入门 案例精讲 Python 版](Python/Readme.md)》
+1. 《[小学生 算法入门 案例精讲 Python 版](Python_Beginner/Readme.md)》
 
 2. 《小学生 算法入门 案例精讲 NOI/CSP C++ 版》
 
@@ -42,8 +42,8 @@
 
 **其它辅助类：**
 
-1. 《[C++新手入门指南：安装和配置环境](/Cpp_Beginner_Guide)》
+1. 《[C++新手入门指南：安装和配置环境]([GitHub - LoongBa/Cpp_Beginner_Guide: C++ 初学者指南：为初学者，尤其小学生中学生提供一些入门必要的建议，降低自学的门槛。](https://github.com/LoongBa/Cpp_Beginner_Guide))》
 
-2. 《[C++新手入门指南：安装和配置VSCode](/Cpp_Beginner_Guide)》
+2. 《[C++新手入门指南：安装和配置VSCode](https://github.com/LoongBa/Cpp_Beginner_Guide)》
 
 3. 《[推荐算法可视化工具](AlgorithmVisualization.md)》
